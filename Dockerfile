@@ -35,4 +35,4 @@ VOLUME /data/input
 VOLUME /data/output
 VOLUME /data/models
 
-ENTRYPOINT ["/bin/bash", "--login", "-c"]
+# ENTRYPOINT ["/bin/bash", "--login", "-c"]
